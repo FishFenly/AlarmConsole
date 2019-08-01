@@ -1,0 +1,14 @@
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\hostfxr.dll
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\AlarmConsole.exe
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\AlarmConsole.deps.json
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\AlarmConsole.runtimeconfig.json
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\AlarmConsole.runtimeconfig.dev.json
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\AlarmConsole.dll
+C:\localsource\AlarmConsole\bin\Release\netcoreapp2.2\win-x64\AlarmConsole.pdb
+C:\localsource\AlarmConsole\obj\Release\netcoreapp2.2\win-x64\AlarmConsole.csprojAssemblyReference.cache
+C:\localsource\AlarmConsole\obj\Release\netcoreapp2.2\win-x64\AlarmConsole.csproj.CoreCompileInputs.cache
+C:\localsource\AlarmConsole\obj\Release\netcoreapp2.2\win-x64\AlarmConsole.AssemblyInfoInputs.cache
+C:\localsource\AlarmConsole\obj\Release\netcoreapp2.2\win-x64\AlarmConsole.AssemblyInfo.cs
+C:\localsource\AlarmConsole\obj\Release\netcoreapp2.2\win-x64\AlarmConsole.dll
+C:\localsource\AlarmConsole\obj\Release\netcoreapp2.2\win-x64\AlarmConsole.pdb

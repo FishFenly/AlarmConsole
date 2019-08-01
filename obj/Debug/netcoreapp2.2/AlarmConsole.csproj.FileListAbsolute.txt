@@ -1,0 +1,11 @@
+C:\localsource\AlarmConsole\bin\Debug\netcoreapp2.2\AlarmConsole.deps.json
+C:\localsource\AlarmConsole\bin\Debug\netcoreapp2.2\AlarmConsole.runtimeconfig.json
+C:\localsource\AlarmConsole\bin\Debug\netcoreapp2.2\AlarmConsole.runtimeconfig.dev.json
+C:\localsource\AlarmConsole\bin\Debug\netcoreapp2.2\AlarmConsole.dll
+C:\localsource\AlarmConsole\bin\Debug\netcoreapp2.2\AlarmConsole.pdb
+C:\localsource\AlarmConsole\obj\Debug\netcoreapp2.2\AlarmConsole.csprojAssemblyReference.cache
+C:\localsource\AlarmConsole\obj\Debug\netcoreapp2.2\AlarmConsole.csproj.CoreCompileInputs.cache
+C:\localsource\AlarmConsole\obj\Debug\netcoreapp2.2\AlarmConsole.AssemblyInfoInputs.cache
+C:\localsource\AlarmConsole\obj\Debug\netcoreapp2.2\AlarmConsole.AssemblyInfo.cs
+C:\localsource\AlarmConsole\obj\Debug\netcoreapp2.2\AlarmConsole.dll
+C:\localsource\AlarmConsole\obj\Debug\netcoreapp2.2\AlarmConsole.pdb
