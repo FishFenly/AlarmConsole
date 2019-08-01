@@ -47,7 +47,7 @@ namespace AlarmConsole
         {
             DateTime currentTime = DateTime.Now;
             DateTime dinnerTime = DateTime.Today.AddHours(13);
-            DateTime homeTime = DateTime.Today.AddHours(15).AddMinutes(50);
+            DateTime homeTime = DateTime.Today.AddHours(15).AddMinutes(45);
 
             if (currentTime.ToShortTimeString()  == dinnerTime.ToShortTimeString())
             {
@@ -63,8 +63,13 @@ namespace AlarmConsole
         }
         static void Main(string[] args)
         {
+            Console.SetWindowSize(50,10);
+            Console.WriteLine("-#- Joseph's alarm app -#-");
+            Console.WriteLine("");
+            Console.WriteLine("Dinner time alarm set for 13:00");
+            Console.WriteLine("Home time set for 15:45");
             while (runTimer)
-            {
+            { 
                 RunTimer();
             }
         }
