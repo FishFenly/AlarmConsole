@@ -64,7 +64,7 @@ namespace AlarmConsole
         static void Main(string[] args)
         {
             Console.SetWindowSize(50,10);
-            Console.WriteLine("-#- Joseph's alarm app -#-");
+            Console.WriteLine("-#- alarm app -#-");
             Console.WriteLine("");
             Console.WriteLine("Dinner time alarm set for 13:00");
             Console.WriteLine("Home time set for 15:45");
